@@ -1,5 +1,5 @@
 ![MasterHead](https://lepei.github.io/assets/img/genshin-impact/oculi-banner.jpg)
-<h1 align="center">Hello world, I'm Kabir Bhawar</h1>
+<h1 align="center">Hello world 🌎, I'm Kabir Bhawar</h1>
 <h3 align="center">Learning and contributing to the community, one block of code at a time.</h3>
 <img align="right" alt = "Coding" width="250" src = "https://media.licdn.com/dms/image/D4D03AQFEZbi59j8EyA/profile-displayphoto-shrink_800_800/0/1685997602163?e=2147483647&v=beta&t=pwR13rKiy-7G3qxwf3tL5hwkYfXK3ztZDx10Nw_UR30">
 
